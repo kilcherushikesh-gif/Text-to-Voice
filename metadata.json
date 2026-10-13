@@ -1,0 +1,6 @@
+{
+  "name": "Text to Voice",
+  "description": "Indian text-to-voice app supporting Marathi, Hindi, English, Tamil, Telugu, and Bengali with male/female voice options, age group styles, MP3 export, and easy social sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
